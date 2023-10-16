@@ -1,0 +1,12 @@
+ul {
+    list-style-type: none
+}
+
+h1, h2 { text-align: center;}
+
+h1 {background-color:rgb(6, 88, 194);
+color: white}
+
+.weatherBlock {background-color: lightgray;
+border: solid 1px black}
+#block-index-0 { background-color: white;}
