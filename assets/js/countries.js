@@ -1,4 +1,4 @@
-// a list of country codes for non-US locations.
+// a list of country codes for non-US locations. List pulled from https://www.ipqualityscore.com/documentation/countries/overview
 
 var countries = {
   US: "United States",
